@@ -1,0 +1,6 @@
+dvbs2_rx_test.py
+ffmpeg2pass-0.log
+ffmpeg2pass-0.log.mbtree
+*.mp4
+*.ts
+*.swp
